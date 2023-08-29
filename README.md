@@ -1,8 +1,8 @@
 # Couch-to-coder
-All the programs I wrote to solve the tasks during the boot-camp
+All the programs I wrote to solve the tasks during the boot camp
 
-An online python boot-camp by Bright Networks Technology academy. 
+An online python boot camp by Bright Networks Technology Academy. 
 
 A coding camp that gives you the  foundational skills you need to pursue a career in tech. Split over 4 sessions, 
 
-we’ll take you through the fundamentals of code before taking you on a journey through algorithms, data analysis, problem-solving and more.  
+I was taken through the fundamentals of code and then took a dive into  algorithms, data analysis, problem-solving, and more.  
